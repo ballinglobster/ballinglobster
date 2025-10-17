@@ -1,5 +1,5 @@
 ## Hi there 👋
-`![Banner with my social media profile usernames. LinkedIn username is: danischoofs, GitHub and Instagram usernames are: ballinglobster](/Images/Banner.png)`
+![Banner with my social media profile usernames. LinkedIn username is: danischoofs, GitHub and Instagram usernames are: ballinglobster](/Images/Banner.png)
 <!--
 **ballinglobster/ballinglobster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
