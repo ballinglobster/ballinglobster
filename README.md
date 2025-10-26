@@ -9,6 +9,12 @@
 - [LinkedIn](https://linkedin.com/in/danischoofs)
 - [Instagram](https://instagram.com/ballinglobster)
 - [Bluesky](https://bsky.app/profile/thelobster.dev)
+<hr>
+
+Like what I do?
+<br>
+<br>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T1ZSQY8)
 
 <!--
 **ballinglobster/ballinglobster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
