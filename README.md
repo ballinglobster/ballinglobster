@@ -1,5 +1,15 @@
 ## Hi there 👋
 ![Banner with my social media profile usernames. LinkedIn username is: danischoofs, GitHub and Instagram usernames are: ballinglobster](/Images/Banner.png)
+
+## View my:
+- [Website](https://thelobster.dev)
+- [Itch.io](https://itch.io/profile/ballinglobster)
+
+## Connect with me on:
+- [LinkedIn](https://linkedin.com/in/danischoofs)
+- [Instagram](https://instagram.com/ballinglobster)
+- [Bluesky](https://bsky.app/profile/thelobster.dev)
+
 <!--
 **ballinglobster/ballinglobster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
