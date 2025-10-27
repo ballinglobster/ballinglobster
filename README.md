@@ -11,7 +11,7 @@
 - [Bluesky](https://bsky.app/profile/thelobster.dev)
 <hr>
 
-Like what I do?
+Do you like what I do?
 <br>
 <br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T1ZSQY8)
